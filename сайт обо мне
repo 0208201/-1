@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center">САЙТ ОБО МНЕ</h1>
+    <p  style="color: blue;">Имя:Вадим</p>
+    <p style="color: blue;">Фамилия:Ковалёв</p>
+    <p style="color: blue;"> Отчество:Александр</p>
+    <p style="color: purple;">мне 10лет я учусь в школе номер 56 в 4 классе и я учусь на 4 и 5.</p>
+       <p style="color: red;">я играю в видео игры название некоторых игр и мои ники в этих играх:Call of duty спамслам,Last Day On Earth мега,Ark of war mega.</p>
+        <p style="color: green;">я есть в Diskord ник vadim и ещё я есть в viber Вадим Ковалёв.</p>
+</body>
+</html>
